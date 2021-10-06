@@ -170,6 +170,7 @@
 .u-section-2 .u-image-1 {
   min-height: 484px;
   background-image: url("images/pexels-victoria-borodinova-1648776.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -660,7 +661,6 @@
     grid-template-columns: 100%;
     min-height: 901px;
     grid-gap: 19px 19px;
-    grid-auto-columns: 100%;
   }
 
   .u-section-4 .u-container-layout-1 {
@@ -1009,7 +1009,6 @@
   .u-section-5 .u-repeater-1 {
     grid-template-columns: 100%;
     min-height: 901px;
-    grid-auto-columns: 100%;
   }
 
   .u-section-5 .u-container-layout-1 {
